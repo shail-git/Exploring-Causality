@@ -1,4 +1,4 @@
-## Learnig About Causality
+## Learning About Causality
 
 Let's start from the basics - what is a _cause_ and what is an _effect_? A **cause** is something that makes something else happen. An **effect** is what happens due to the cause. For example, if you turn on a switch (the cause), the light bulb illuminates (the effect).
 
